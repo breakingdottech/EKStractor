@@ -112,4 +112,3 @@ MIT License
 
 ---
 
-Let me know if you'd like to generate a `man` page, convert it to HTML/docs, or package it into a CLI tool (`pip install`-able).
