@@ -1,8 +1,4 @@
-Here's a clean, informative, and professional `README.md` for your `EKStract.py` script:
-
----
-
-# 🧪 EKStract
+#  EKStract
 
 > **IRSA / Pod Identity Credential Extractor for Amazon EKS**
 
@@ -100,9 +96,10 @@ source oidc_1.sh
 
 ## 🧠 Example Use Cases
 
-* 🔍 Forensics or credential inspection during troubleshooting
-* 🔐 Security audits in EKS clusters
-* 🔄 Rotating credentials for service accounts
+* Forensics or credential inspection during troubleshooting
+* Security audits in EKS clusters
+* Rotating credentials for service accounts
+* EKS Red Team engagement
 
 ---
 
